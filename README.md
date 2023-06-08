@@ -1067,44 +1067,5 @@
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | <img width='200' src="https://github-profile-trophy.vercel.app/?username=rafawainer" /> | `https://github-profile-trophy.vercel.app/?username={username}` | `https://github-profile-trophy.vercel.app/?username={username}&theme={theme_name}` |
 
-## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
-
-1 - You don't need to make a fork just edit.
-
-2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.yml).
-
-3 - Build the URL:
-
-```
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
-```
-
-- {TEXT} = Paste your badge text
-- {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
-- {LOGO-NAME} = Logo name from Simple Icon
-
-4 - Paste on category with `Alphabetical` order.
-
-5 - Commit your changes.
-
-## Creators [🔝](#welcome-badges-4-readmemd-profile)
-
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/rafawainer/Badges4-README.md-Profile/graphs/contributors). As usual, we update our top 3 contributors list on every month. But last month we didn't get any contributor. So for this month We're going to remove this section. We do respect & love our all contributors.
-
-**Note:** Every month the Contributors list will be updated by observing their contributions.
-
-|                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/rafawainer.png?size=115" width=115><br><sub>@rafawainer</sub>](https://github.com/rafawainer) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/rafawainer) | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
-
-## See More Repositories
-
-| Project                                                                                                         | Short description                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Collection.NiceToolsForAppDesign](https://github.com/rafawainer/Collection.NiceToolsForAppDesign)         | Nice tools collection for app design                                                                                                                     |
-| [MobileApp.SimpleLandingPage.Template](https://github.com/rafawainer/MobileApp.SimpleLandingPage.Template) | Create a very simple landing page for your mobile app with bootstrap only                                                                                |
-| [Badge Genius](https://github.com/mrhrifat/badge-genius)                                                        | Build & Download 2440+ popular brands Badge, SVG, Hex & so on to use in GitHub Markdown or Any Web Pages wth fast, reliable with amazing dynamic process |
-| [Al-Quran](https://github.com/mrhrifat/al-quran)                                                                | Al-Quran is a Sadaqah Jariyah. It's the holy book of Islam. I hope to make it easy for everyone to read, study, & learn Al-Quran.                        |
-| [Shield Icons](https://github.com/mrhrifat/shield-icons)                                                        | Shield Icons will provide Badges, SVG Logo & Hex Color Code to use in GitHub Markdown or Any Web Pages                                                   |
 
 Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/alexandresanlim)
